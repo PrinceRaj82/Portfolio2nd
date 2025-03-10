@@ -33,7 +33,7 @@
   git clone git@github.com:PrinceRaj82/portfolio2nd.git
   ```
 
-- Navigate to `cd portfolio---react`  directory.
+- Navigate to `cd portfolio2nd`  directory.
 
 - To install all the app dependencies on the command line run
 - ```
