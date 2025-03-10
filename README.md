@@ -47,7 +47,7 @@
 
 ## Author
 
-:woman: **Meri Gogichashvili**
+👦: **Rajkumar verma**
 
 - [GitHub](https://github.com/PrinceRaj82)
 - [LinkedIn](https://www.linkedin.com/in/rajkumarprince/)
