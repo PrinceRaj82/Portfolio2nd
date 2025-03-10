@@ -8,7 +8,7 @@ const Intro = () => {
   return (
     <section id="about">
       <h5>Get to know</h5>
-      <h2>About Me</h2>
+      <h2>About </h2>
       <div className="container about__container">
         <div className="about__me">
           <div className="about__me-image">
@@ -28,7 +28,7 @@ const Intro = () => {
               <small>20+ Completed Projects</small>
             </article>
           </div>
-          <p>Here about you</p>
+          <p>I am full-stack developer with a passion for building scalable web applications. Proficient in frontend and backend technologies, including React.js, Node.js, Express.js, SQL, and MongoDB. Always eager to learn, I focus on writing clean, efficient code and solving real-world problems. Currently exploring system design and AI for automation. Dedicated to continuous growth, I aim to create impactful solutions that enhance user experience. Open to collaboration and exciting opportunities in the IT industry.</p>
           <a href="#contact" className="btn btn-primary">Let's Talk</a>
         </div>
       </div>

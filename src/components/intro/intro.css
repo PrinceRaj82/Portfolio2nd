@@ -18,6 +18,8 @@
     overflow: hidden;
     transform: rotate(10deg);
     transition: var(--transition);
+    width:95%;
+    /* height:100%; */
 }
 
 .about__me-image:hover {

@@ -60,3 +60,10 @@ header {
     display: none;
   }
 }
+
+
+@media screen and (max-width:370px){
+  .cta .btn {
+    padding:5px 10px;
+  }
+}

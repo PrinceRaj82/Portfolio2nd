@@ -14,7 +14,7 @@ const Contact = () => {
         'service_k2qawqh',
         'template_c6rkpn6',
         formRef.current,
-        'F3wyYkO6kcq9j5_TA'
+        'X7K7ebhIeOy3YwHki'
       )
       .then(
         (result) => {
@@ -36,8 +36,8 @@ const Contact = () => {
           <article className="contact__option">
             <MdOutlineEmail className="contact__option-icon" />
             <h4>Email</h4>
-            <h5>Rajkumarverma.webdev@gmail.com</h5>
-            <a href="mailto:rajkumarverma.webdev@gmail.com">Send a message</a>
+            <h5>merigogichashvili13@gmail.com</h5>
+            <a href="mailto:merigogichashvili13@gmail.com">Send a message</a>
           </article>
         </div>
         <form ref={formRef} onSubmit={handleSubmit}>
