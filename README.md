@@ -54,7 +54,7 @@
 
 ## 🤝 Contributing
 - Contributions, issues, and feature requests are welcome!
-- Feel free to check the [issues page](https://github.com/Meri-MG/portfolio2nd/issues).
+- Feel free to check the [issues page](https://github.com/PrinceRaj82/portfolio2nd/issues).
 
 # Show your support
 Give a ⭐ if you like this project!
