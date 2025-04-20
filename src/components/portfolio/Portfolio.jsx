@@ -21,26 +21,17 @@ const Portfolio = () => {
     },
     {
       id: 2,
-      title: 'Amazon UI Clone',
+      title: 'YT Playlist Anlyser',
       img: IMG4,
       description:
-        'An Amazon UI clone using HTML and CSS, featuring a responsive design, structured layout, and smooth navigation to showcase my frontend development skills. ',
-      technologies: 'CSS | HTML',
-      link: 'https://amazo-ui.netlify.app/',
-      github: 'https://github.com/PrinceRaj82/AmazonUIClone',
-    },
-    {
-      id: 3,
-      title: 'Menu page',
-      img: IMG2,
-      description: 'An interactive menu using HTML, CSS, and JavaScript with smooth navigation and a user-friendly design for easy browsing',
-      technologies: 'JavaScript | HTML | CSS',
-      link: 'https://menu-landingpge.netlify.app/',
-      github: 'https://github.com/PrinceRaj82/MenuPage',
+        ' YouTube Playlist Analyzer that calculates total duration, visualizes video data with charts, supports dark mode, and enables sharing or embedding results — built with React, Vite, and Tailwind CSS.'
+      technologies: 'React | Typescript | Tailwind',
+      link: 'https://ytplaylistanlyser.vercel.app/',
+      github: 'https://github.com/PrinceRaj82/YTPLAYLISTANLYSER',
     },
     // {
-    //   id: 4,
-    //   title: 'Shelter',
+    //   id: 3,
+    //   title: 'YoutubeClone',
     //   img: IMG3,
     //   description:
     //     'Fully responsive interactive website built based on Figma design',
@@ -48,6 +39,15 @@ const Portfolio = () => {
     //   link: 'https://meri-mg.github.io/shelter/pages/main/index.html',
     //   github: 'https://github.com/Meri-MG/shelter',
     // },
+    {
+      id: 4,
+      title: 'Menu page',
+      img: IMG2,
+      description: 'An interactive menu using HTML, CSS, and JavaScript with smooth navigation and a user-friendly design for easy browsing',
+      technologies: 'JavaScript | HTML | CSS',
+      link: 'https://menu-landingpge.netlify.app/',
+      github: 'https://github.com/PrinceRaj82/MenuPage',
+    },
     // {
     //   id: 5,
     //   title: 'World News',
